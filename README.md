@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Kunal Srivastava:
 🔭 I’m currently working on
 - Practicing Data Structures & Algorithms on LeetCode
 - Strengthening problem-solving skills using C++ & Python
