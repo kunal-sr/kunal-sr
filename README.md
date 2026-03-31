@@ -1,24 +1,71 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=5010&pause=1000&color=20F725&width=435&lines=HI%2C+KUNAL+SRIVASTAVA+THIS+SIDE;CYBER+SECURITY+%26+DATA+SCIENCE+ENTHUSIAST!)](https://git.io/typing-svg)\
-$${\color{green}\text{Cybersecurity, Data Science enthusiast decoding data and defending systems}}$$
+<!-- ⚡ PREMIUM NAME (ALL CAPS) -->
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=KUNAL+SRIVASTAVA"/>
+</p>
 
-___
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kunall_sr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-srivastava8810/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavakunal8810@gmail.com) $${\color{green}\text{👈LET'S CONNECT HERE}}$$
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Data+Science+%C3%97+Cybersecurity;Decoding+Data+%7C+Defending+Systems"/>
+</p>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://streak-stats.demolab.com?user=kunal-sr&theme=hacker" />
-  <img src="robot.gif" width="150"/>
-</div>
+## ⚡ CONNECT
 
+<p align="center">
+<a href="https://www.instagram.com/kunall_sr?igsh=a3M1MXZqdjN5ZDdh"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/kunal-srivastava8810/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:srivastavakunal8810@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
-  <img alt="github-snake" src="snake-dark.svg" />
-</picture>
+---
 
-[![](https://visitcount.itsvg.in/api?id=ranjeet22&icon=5&color=0)](https://visitcount.itsvg.in)
+## 🧠 TECH STACK
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,docker,git,firebase,mysql"/>
+</p>
+
+---
+
+## 📊 PERFORMANCE
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kunal-sr&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kunal-sr&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ EXECUTION TERMINAL
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=700&color=7F5AF0&center=true&vCenter=true&width=650&lines=System+online;Building+security+systems;Training+ML+models;Evolving+every+day"/>
+</p>
+
+---
+
+## 🧠 LEETCODE PROTOCOL
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=700&color=7F5AF0&center=true&vCenter=true&width=650&lines=LeetCode+session+active;Solving+problems+daily;No+zero+days;Sharpening+DSA+instincts"/>
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/kunal_sr?theme=transparent&bg_color=00000000&font=Jacques%20Francois&ext=heatmap"/>
+</p>
+
+---
+
+## 🧬 SIGNATURE
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=I+analyze+patterns.+I+exploit+weaknesses.+I+secure+systems."/>
+</p>
+
+---
