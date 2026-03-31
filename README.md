@@ -18,6 +18,10 @@
 <a href="mailto:srivastavakunal8810@gmail.com">
 <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
 </a>
+<a href="https://leetcode.com/kunal_sr">
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
+</a>
+
 </p>
 
 ---
