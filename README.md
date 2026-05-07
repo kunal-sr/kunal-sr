@@ -13,13 +13,13 @@
 ## ⚡ CONNECT
 
 <p align="center">
-<a href="https://www.instagram.com/kunall_sr?igsh=a3M1MXZqdjN5ZDdh"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-<a href="https://www.linkedin.com/in/kunal-srivastava8810/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.instagram.com/harry_puttar0_0?igsh=a3M1MXZqdjN5ZDdh"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/kunal-srivastava8810/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:srivastavakunal8810@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 <a href="https://leetcode.com/kunal_sr">
-<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
 </p>
